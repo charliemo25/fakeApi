@@ -1,0 +1,53 @@
+{
+    "categories": [{
+            "id": 1,
+            "title": "BEST-SELLERS",
+            "src": "best-sellers.png"
+        },
+        {
+            "id": 2,
+            "title": "FAIRE LA FÊTE",
+            "src": "faire-la-fete.png"
+        },
+        {
+            "id": 3,
+            "title": "T'AS LES CROCS",
+            "src": "manger.png"
+        },
+        {
+            "id": 4,
+            "title": "GÉRER TON CASH",
+            "src": "banques.png"
+        },
+        {
+            "id": 5,
+            "title": "TES LOISIRS",
+            "src": "sortir.png"
+        },
+        {
+            "id": 6,
+            "title": "FAIS CHAUFFER TA CARTE",
+            "src": "shopping.png"
+        },
+        {
+            "id": 7,
+            "title": "BREAKING NEWS",
+            "src": "news.png"
+        },
+        {
+            "id": 8,
+            "title": "BÂTIR TON FUTUR",
+            "src": "etudier.png"
+        },
+        {
+            "id": 9,
+            "title": "TA SANTÉ AVANT TOUT",
+            "src": "soin.png"
+        },
+        {
+            "id": 10,
+            "title": "INSTALLE-TOI",
+            "src": "trouver-appartement.png"
+        }
+    ]
+}
