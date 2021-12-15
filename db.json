@@ -49,5 +49,37 @@
             "title": "INSTALLE-TOI",
             "src": "trouver-appartement.png"
         }
+    ],
+    "offers": [{
+            "id": 1,
+            "partner_id": 1,
+            "category_id": 1,
+            "name": "MOCK_OFFERS_1"
+        },
+        {
+            "id": 2,
+            "partner_id": 1,
+            "category_id": 2,
+            "name": "MOCK_OFFERS_2"
+        },
+        {
+            "id": 3,
+            "partner_id": 2,
+            "category_id": 1,
+            "name": "MOCK_OFFERS_3"
+        }
+    ],
+    "partners": [{
+            "id": 1,
+            "name": "MOCK_PARTNER_1"
+        },
+        {
+            "id": 2,
+            "name": "MOCK_PARTNER_2"
+        },
+        {
+            "id": 3,
+            "name": "MOCK_PARTNER_3"
+        }
     ]
 }
