@@ -55,34 +55,64 @@
             "partner_id": 1,
             "category_id": 1,
             "name": "MOCK_OFFERS_1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
+            "description": "10% de reduction",
+            "begin": 1638399600,
+            "end": 1639609200
         },
         {
             "id": 2,
             "partner_id": 1,
             "category_id": 2,
             "name": "MOCK_OFFERS_2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
+            "description": "10% de reduction",
+            "begin": 1638399600,
+            "end": 1639609200
         },
         {
             "id": 3,
             "partner_id": 2,
             "category_id": 1,
             "name": "MOCK_OFFERS_3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
+            "description": "10% de reduction",
+            "begin": 1638399600,
+            "end": 1639609200
         }
     ],
     "partners": [{
             "id": 1,
-            "name": "MOCK_PARTNER_1"
+            "name": "MOCK_PARTNER_1",
+            "coordinates":{
+                "adress": "2 rue du mock",
+                "postal_code": "25000",
+                "phone": 0381545687,
+                "City": "MockTown",
+                "email": "mock@mail.com"
+            },
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
         },
         {
             "id": 2,
-            "name": "MOCK_PARTNER_2"
+            "name": "MOCK_PARTNER_2",
+            "coordinates":{
+                "adress": "2 rue du mock",
+                "postal_code": "25000",
+                "phone": 0381545687,
+                "City": "MockTown",
+                "email": "mock@mail.com"
+            },
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
         },
         {
             "id": 3,
-            "name": "MOCK_PARTNER_3"
+            "name": "MOCK_PARTNER_3",
+            "coordinates":{
+                "adress": "2 rue du mock",
+                "postal_code": "25000",
+                "phone": 0381545687,
+                "City": "MockTown",
+                "email": "mock@mail.com"
+            },
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
         }
     ]
 }
