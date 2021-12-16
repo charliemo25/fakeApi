@@ -84,7 +84,7 @@
             "coordinates":{
                 "adress": "2 rue du mock",
                 "postal_code": "25000",
-                "phone": 0381545687,
+                "phone": "0381545687",
                 "City": "MockTown",
                 "email": "mock@mail.com"
             },
@@ -96,7 +96,7 @@
             "coordinates":{
                 "adress": "2 rue du mock",
                 "postal_code": "25000",
-                "phone": 0381545687,
+                "phone": "0381545687",
                 "City": "MockTown",
                 "email": "mock@mail.com"
             },
@@ -108,7 +108,7 @@
             "coordinates":{
                 "adress": "2 rue du mock",
                 "postal_code": "25000",
-                "phone": 0381545687,
+                "phone": "0381545687",
                 "City": "MockTown",
                 "email": "mock@mail.com"
             },
