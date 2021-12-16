@@ -88,6 +88,17 @@
                 "city": "MockTown",
                 "email": "mock@mail.com"
             },
+            "open":[
+                {
+                    "days":"Du lundi au jeudi de 11h30 à 0h45"
+                },
+                {
+                    "days":"Vendredi et samedi de 11h30 à 1h45"
+                },
+                {
+                    "days": "Dimanche et jours fériés de 12h à 0h45"
+                }
+            ],
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
         },
         {
@@ -100,6 +111,17 @@
                 "city": "MockTown",
                 "email": "mock@mail.com"
             },
+            "open":[
+                {
+                    "days":"Du lundi au jeudi de 11h30 à 0h45"
+                },
+                {
+                    "days":"Vendredi et samedi de 11h30 à 1h45"
+                },
+                {
+                    "days": "Dimanche et jours fériés de 12h à 0h45"
+                }
+            ],
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
         },
         {
@@ -112,6 +134,17 @@
                 "city": "MockTown",
                 "email": "mock@mail.com"
             },
+            "open":[
+                {
+                    "days":"Du lundi au jeudi de 11h30 à 0h45"
+                },
+                {
+                    "days":"Vendredi et samedi de 11h30 à 1h45"
+                },
+                {
+                    "days": "Dimanche et jours fériés de 12h à 0h45"
+                }
+            ],
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac lectus sed ante auctor suscipit. Duis porttitor vehicula molestie. Nullam tincidunt ultricies erat, ac congue metus fermentum quis. Nullam eu ullamcorper ligula, at mattis enim. Mauris hendrerit, ante in vulputate dapibus, risus nisi aliquet sem, eget semper velit purus vel urna. Mauris dictum eros urna, lacinia commodo arcu accumsan eu. Nunc quam est, tincidunt vitae congue tincidunt, tempor at ex. Donec id nisl viverra, imperdiet lorem iaculis, eleifend erat. "
         }
     ]
